@@ -1,3 +1,3 @@
-# hello-word
+#Hello World
 
-Esse comando imprimi no console uma mensagem de boas vindas.
+Esse arquivo recebe uma variável com uma mensagem de boas vindas "Ola, Mundo" e que é exibida no console ao executar o comando node.
